@@ -1,0 +1,23 @@
+abc=12
+abc=12,def=34
+abc=(def=34,ghi=56),xyz=00
+aaa=(bbb=(ccc=(ddd=01)))
+ab=12
+abc=1
+abc=123
+abc=()
+abc=12,
+abc=12,def=3x
+abc=(def=12
+abc=12)
+abc = 12
+xyz=99
+Abc=00,DEF=(gHi=12)
+aaa=(bbb=11),ccc=(ddd=22,eee=(fff=33))
+a1c=12
+abc==12
+abc=1a
+abc=(12)
+abc=(def=12,)
+abc=(def=12))
+abc=(def=(ghi=12)
